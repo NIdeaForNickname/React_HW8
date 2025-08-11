@@ -1,0 +1,28 @@
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+table tr:first-child {
+    background-color: lightgray;
+}
+
+tr td:first-child {
+    background-color: lightgray;
+}
+
+div {
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+input {
+    margin-left: 10px;
+    width: 60px ;
+}
+
+table{
+    border-collapse: collapse;
+    margin-top: 20px;
+}
